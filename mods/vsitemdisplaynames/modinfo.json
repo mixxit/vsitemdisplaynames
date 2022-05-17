@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "vsitemdisplaynames",
+    "name": "vsitemdisplaynames",
+    "author": "mixxit",
+    "description": "Allows display names on items",
+    "version": "1.16.5-rc.1",
+    "requiredOnClient": "true",
+    "requiredOnServer": "true",
+    "dependencies": {
+        "game": "1.16.5",
+        "survival": "1.16.5"
+    }
+}
