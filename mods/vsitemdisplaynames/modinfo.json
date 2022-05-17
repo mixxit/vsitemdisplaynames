@@ -4,7 +4,7 @@
     "name": "vsitemdisplaynames",
     "author": "mixxit",
     "description": "Allows display names on items",
-    "version": "1.16.5-rc.1",
+    "version": "1.16.5-rc.2",
     "requiredOnClient": "true",
     "requiredOnServer": "true",
     "dependencies": {
